@@ -1,0 +1,28 @@
+body {
+	background-color:#B0E0E6;
+}
+ nav li { 
+	display:inline;
+	margin: 0px 50px 0px 0px;
+	font-weight: bold;
+}
+nav li a{
+	color:#3399CC;
+}
+h2{
+	color:#333399;
+	font-weight: bold;
+}
+p {
+	color:#3333CC;
+	font-weight: bold;
+}
+span {
+	color:#3399CC;
+	font-weight: bold;
+	text-decoration: underline;
+}
+dl {
+	color:#3333CC;
+	font-weight: bold;
+}
